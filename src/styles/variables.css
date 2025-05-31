@@ -1,0 +1,15 @@
+/* src/styles/variables.css */
+:root {
+  --color-primary: #3a0ca3;
+  --color-secondary: #7209b7;
+  --color-accent: #f72585;
+  --color-bg: #0a0a0a;
+  --color-text: #ffffff;
+  --color-text-muted: #a1a1aa;
+  
+  --spacing-xs: 0.5rem;
+  --spacing-sm: 1rem;
+  --spacing-md: 1.5rem;
+  --spacing-lg: 2rem;
+  --spacing-xl: 3rem;
+}

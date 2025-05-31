@@ -1,0 +1,33 @@
+
+{
+  "data": "2024-01-25",
+  "previsoes": [
+    {
+      "signo": "Áries",
+      "previsaoGeral": "As energias marcianas estão em alta, favorecendo iniciativas corajosas e projetos inovadores. É um momento propício para assumir a liderança.",
+      "amor": "Vênus em aspecto favorável traz paixão e romantismo. Solteiros podem ter encontros especiais, enquanto casais vivem momentos de cumplicidade.",
+      "trabalho": "Marte impulsiona sua ambição profissional. Apresentações e negociações têm grandes chances de sucesso. Confie em sua capacidade de liderança.",
+      "saude": "Energia física em alta, ideal para atividades esportivas. Cuidado apenas com a impulsividade que pode levar a pequenos acidentes.",
+      "numeroSorte": 7,
+      "corSorte": "Vermelho"
+    },
+    {
+      "signo": "Touro",
+      "previsaoGeral": "Período de estabilidade e crescimento gradual. Vênus favorece questões financeiras e relacionamentos duradouros. Perseverança será recompensada.",
+      "amor": "Momento de consolidação nos relacionamentos. Demonstrações práticas de carinho fortalecem vínculos. Segurança emocional em destaque.",
+      "trabalho": "Projetos de longo prazo ganham força. Sua dedicação e persistência são reconhecidas. Oportunidades financeiras podem surgir.",
+      "saude": "Bem-estar através de prazeres simples. Atenção especial à alimentação e conforto físico. Relaxamento é essencial.",
+      "numeroSorte": 14,
+      "corSorte": "Verde"
+    },
+    {
+      "signo": "Gêmeos",
+      "previsaoGeral": "Mercúrio ativa sua mente e comunicação. Período ideal para aprendizado, escritas e conexões sociais. Versatilidade é sua força.",
+      "amor": "Comunicação é a chave para relacionamentos harmoniosos. Conversas profundas estreitam laços. Novos contatos podem evoluir.",
+      "trabalho": "Ideias criativas e comunicação eficaz abrem portas. Networking e parcerias são favorecidos. Múltiplos projetos em andamento.",
+      "saude": "Mente ativa pode causar ansiedade. Práticas de respiração e atividades que acalmem a mente são recomendadas.",
+      "numeroSorte": 23,
+      "corSorte": "Amarelo"
+    }
+  ]
+}

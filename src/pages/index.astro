@@ -1,0 +1,25 @@
+---
+// src/pages/index.astro
+import MainLayout from '../layouts/MainLayout.astro';
+import Logo from '../components/Logo.astro';
+
+const pageTitle = 'Celestial Logo Craft - Cosmic Branding Solutions';
+---
+
+<MainLayout title={pageTitle}>
+  <section class="hero">
+    <Logo size="large" />
+    <h1>Celestial Logo Craft</h1>
+    <p>Your cosmic branding solution</p>
+    <a href="#contact" class="cta-button">Get Started</a>
+  </section>
+
+  <section class="features">
+    <!-- Features content from original site -->
+    <div class="feature">
+      <h2>Stellar Designs</h2>
+      <p>Our logos shine brighter than the cosmos.</p>
+    </div>
+    <!-- More features... -->
+  </section>
+</MainLayout>

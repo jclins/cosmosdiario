@@ -1,0 +1,31 @@
+---
+// src/components/Logo.astro
+import { Image } from '@astrojs/image/components';
+
+const { size = 'medium' } = Astro.props;
+const sizes = {
+  small: 100,
+  medium: 200,
+  large: 300
+};
+---
+
+<div class={`logo-container ${size}`}>
+  <Image 
+    src="/assets/images/logo.png" 
+    alt="Celestial Logo Craft" 
+    width={sizes[size]} 
+    height={sizes[size]}
+    loading="eager"
+  />
+</div>
+
+<style>
+  .logo-container {
+    margin: 0 auto;
+    text-align: center;
+  }
+  .logo-container.large {
+    padding: 2rem 0;
+  }
+</style>
